@@ -1,0 +1,3 @@
+crane: 2.0
+hostler: 10.0
+truck: 5.0

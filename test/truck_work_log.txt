@@ -1,0 +1,12 @@
+Vehicle ID: 1, Event Type: start, Timestamp: 41.20060287274801
+Vehicle ID: 2, Event Type: start, Timestamp: 41.20060287274801
+Vehicle ID: 1, Event Type: end, Timestamp: 46.20060287274801
+Vehicle ID: 2, Event Type: end, Timestamp: 46.20060287274801
+Vehicle ID: 3, Event Type: start, Timestamp: 63.20060287274801
+Vehicle ID: 4, Event Type: start, Timestamp: 63.20060287274801
+Vehicle ID: 3, Event Type: end, Timestamp: 68.20060287274801
+Vehicle ID: 4, Event Type: end, Timestamp: 68.20060287274801
+Vehicle ID: 5, Event Type: start, Timestamp: 85.20060287274801
+Vehicle ID: 6, Event Type: start, Timestamp: 85.20060287274801
+Vehicle ID: 5, Event Type: end, Timestamp: 90.20060287274801
+Vehicle ID: 6, Event Type: end, Timestamp: 90.20060287274801
