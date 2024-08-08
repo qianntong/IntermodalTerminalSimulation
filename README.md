@@ -10,8 +10,8 @@ The simulation models the following key components of terminal operations:
 - **Train Arrival**: Managing the arrival of trains.
 - **Crane Cycle**: Handling the loading and unloading of containers using cranes.
 - **Hostler Cycle**: Transporting containers within the terminal using hostlers.
-- **Drayage Cycle**: Managing the movement of containers by trucks.
-- **In/Out Gate Process**: Handling the entry and exit of trucks through the terminal gates.
+- **Truck Cycle**: Managing the movement of containers by trucks.
+- **Gate Process**: Handling the entry and exit of trucks through the terminal gates.
 - **Train Departure**: Managing the departure of trains.
 
 ## Simulation Parameters
@@ -98,7 +98,7 @@ The simulation records events for each container, including timestamps for arriv
 
 ## Running the Simulation
 
-To run the simulation, use the following code:
+To run the simulation, use the baseline file under the folder test:
 
 ```python
 if __name__ == "__main__":
