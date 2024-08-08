@@ -4,6 +4,8 @@ This document provides an overview of the terminal simulation model implemented 
 
 ## Overview
 
+![Simulation workflow](img/simulation_flow.png)
+
 The simulation models the following key components of terminal operations:
 - **Train Arrival**: Managing the arrival of trains.
 - **Crane Cycle**: Handling the loading and unloading of containers using cranes.
